@@ -1,12 +1,13 @@
-By. Mr.XXII - Team : ZONAREDXXII Security Hacker Commander
-# FBruteXXII
+By. Mr.XXII - Team : HRCXXII Security Hacker Commander <br>
+# FBruteXXII <br>
 
-HACK FB AKUN :
-$ pkg install python2 -dev
-$ apt install wget
-$ pip2 install mechanize
-$ cd /storage/emulated/0
-$ python2 fbbrute.py
-$ storage/emulated/0/password.txt
-cara edit password.txt
-$ nano wordlist.txt
+HACK FB AKUN : <br>
+$ pkg install python2 -dev <br>
+$ apt install wget <br>
+$ pip2 install mechanize <br>
+$ git clone https://github.com/HRCXXII/FBrute  <br>
+$ cd /storage/emulated/0 <br>
+$ python2 fbbrute.py <br>
+$ storage/emulated/0/password.txt <br>
+cara edit password.txt <br>
+$ nano wordlist.txt <br>
