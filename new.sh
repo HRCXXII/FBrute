@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     INDONESIAN TEAM CYBERXXII By MrXXII   "$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
+echo $i" |"$pu" AUTHOR :"$ku" HRCXXII  [FR13ND8]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" HarmanPutra"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.XXII] [MR.HRCXXII] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 082199326022"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" Betazona1984@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -56,9 +56,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
-cd fbbrute
-php fb.php
+git clone https://github.com/HRCXXII/FBrute
+cd FBrute
+sh new.sh
 fi
 
 if [ $pil = 2 ]
@@ -66,9 +66,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
+git clone https://github.com/HRCXXII/FBrute
 cd Fb-Cracker-v.3
-python2 crack.py
+python2 FBrute.py
 fi
 
 if [ $pil = 3 ]
@@ -76,9 +76,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/HRCXXII/FBrute
+cd FBrute
+python FBrute.py
 fi
 
 if [ $pil = 4 ]
@@ -86,9 +86,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/mbf
-cd mbf
-python2 MBF.py
+git clone https://github.com/HRCXXII/FBrute
+cd FBrute
+bash new.sh
 fi
 
 if [ $pil = 5 ]
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 082199326022"
+echo $ku"Facebook :"$i" HARMAN PUTRA"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
